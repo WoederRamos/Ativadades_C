@@ -1,0 +1,13 @@
+arqivos guarda tabelas, tabelas guardam registros
+
+arquivos de acesso sequenciais - fita ou lamina perfurada
+
+Acesso direto - indices, discos e primeiros hds
+
+Codasyl - dec. 60 surgiu cobol, nova tecnologia que ganho o nome de banco de dados que é composto por quatro partes:
+base de dados, sistema gerenciador SGBD em ingles DMS, linguagem de exploração, progamas adicionais, a IBM támbem foi muito valiosa para construção e evolução dos
+bancos de dados, criação do modelo hierárquico,criação do modelo em rede
+
+dec. 70 Edgar F. Codd: criação do modelo relacional 
+
+SQL linguagem de consulta
